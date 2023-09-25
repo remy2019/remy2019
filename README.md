@@ -1,5 +1,5 @@
 ### Hello there 👋
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remy2019&layout=compact)
 <!--
 **remy2019/remy2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
