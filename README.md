@@ -1,5 +1,14 @@
 ### Hello there 👋
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remy2019&layout=compact)
+
+<br />
+
+<p>
+  <img src="https://img.shields.io/static/v1?label=&message=Nushell&color=3eaf7c&logo=gnubash&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?label=&message=Alacritty&color=F46D01&logo=alacritty&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?label=&message=Helix&color=8A00C2&logo=rust&logoColor=white&style=flat-square" />
+</p>
 <!--
 **remy2019/remy2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
